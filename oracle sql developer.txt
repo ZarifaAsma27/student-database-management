@@ -1,0 +1,33 @@
+oracle sql developer 
+
+
+new connection
+
+
+
+Here’s how to fix it in Oracle SQL Developer:
+
+Open SQL Developer.
+
+In the New / Edit Connection window:
+
+Set Username: SYS
+
+Enter the correct Password
+
+Choose:
+
+Connection Type: Basic
+
+Role: ✅ Change this to SYSDBA
+(This is the key step.)
+
+Hostname: localhost
+
+Port: 1521
+
+Service name: XEPDB1 (for Oracle XE) – make sure you're selecting Service Name (not SID).
+
+Click Test → It should now turn Success (Green).
+
+Click Connect.
