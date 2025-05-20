@@ -62,10 +62,8 @@ It includes the creation of tables, inserting sample data, and running useful SQ
 
 ## 📌 Author
 
-- **[Your Name]**
+- **Zarifa Asma**
 - Entry-Level SQL Developer | CSE Graduate
-- Author:Zarifa Asma
-
 ---
 
 ## 💡 What's Next?
